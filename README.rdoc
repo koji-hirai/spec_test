@@ -35,3 +35,13 @@ Please feel free to use a different markup language if you do not plan to run
 
 2.rspec の実行:
 <tt>bundle exec rspec</tt>
+
+== FactoryGirl
+参考URL
+* https://github.com/stympy/faker
+
+== rspec 参考URL
+* http://railstutorial.jp/chapters/modeling-users?version=4.0#sec-initial_user_tests
+* http://qiita.com/itkrt2y/items/243a89472fa82d60d0ad
+* http://qiita.com/rojiuratech/items/2c40ce936691af8f4881
+* http://d.hatena.ne.jp/mrgoofy33/20110518/1305649544
