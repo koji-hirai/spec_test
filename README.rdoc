@@ -26,3 +26,11 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+SPEC起動方法
+1.（初回のみ）rails のバージョン指定
+<tt>rvm use 2.0.0</tt>.
+
+2.rspec の実行
+<tt>bundle exec rspec</tt>.
